@@ -1,309 +1,297 @@
 ID,NAME,BARCODE,SALE_PRICE,PURCHASE_PRICE
-1,AL HABIB Rusk 400g,3002,135,124
-2,Ruby Nimko,8.91E+12,5,4
-3,AL HABIB Rusk 200g,3001,80,70
-4,King Kulfa IceCream Litre,8.96E+12,255,240
-5,Mini Cornetto Classico IceCream,8.96E+12,30,30
-6,Jet Sport IceCream,8.96E+12,20,16
-7,Moo IceCream,8.96E+12,20,17
-8,Mango Tango IceCream,8.96E+12,10,9
-9,Mini Cup IceCream,8.96E+12,20,18
-10,Orange Blast IceCream,8.96E+12,10,9
-11,Strawberry Halp Litre IceCream,8.96E+12,100,90
-12,Mango Half Litre IceCream,8.96E+12,140,120
-13,King Kulfa big slice IceCream,8.96E+12,40,35
-14,Bubble Gum Icecream,8.96E+12,10,9
-15,Patakha Icecream,8.96E+12,30,25
-16,Jet Sport Icecream,8.96E+12,20,18
-17,Feast Icecream,8.96E+12,50,45
-18,Cup Mango,8.96E+12,55,50
-19,Choc Bar,8.96E+12,25,22
-20,Cornetto Flirty Berry,8.96E+12,65,58.5
-21,Vanilla Half Litre 375ml,8.96E+12,100,90
-22,King K Half litre 375ml,8.96E+12,145,130.5
-23,Chounsa Mango Half Litre 375ml,8.96E+12,140,126
-24,Donut,8.96E+12,50,45
-25,King K  Litre 800ml,8.96E+12,255,229.5
-26,Bar Strawberry 800ml,8.96E+12,225,202.5
-27,Bar Vanilla 800ml,8.96E+12,225,202.5
-28,Pepsi 1.5ltr,12000800085,90,81
-29,Pepsi 1ltr,12000002946,70,63
-30,7up 1ltr,8.96E+11,70,63
-31,CocaCola 1ltr,5.45E+12,80,72
-32,CocaCola CAN 250ml,5.45E+12,50,45
-33,Bigg Apple 1ltr,1.86E+12,60,54
-34,Bigg Apple 1.5ltr,8.95E+11,80,72
-35,Water Nestle 1.5ltr,8.96E+12,60,54
-36,Sprite CAN 250ml,5.45E+12,50,45
-37,DEW 1ltr,8.96E+12,70,63
-38,Water AS 1.5ltr,9.23E+11,50,45
-39,7up 1.5ltr,12000800337,90,81
-40,Fanta 1ltr,5.45E+12,80,72
-41,Sting 500ml ,8.96E+12,65,58.5
-42,Water AS 500ml,9.23E+11,30,27
-43,7up 500ml ,8.96E+12,50,45
-44,Mirinda 345ml,8.96E+12,35,31.5
-45,Pepsi 500ml ,12000801754,50,45
-46,Shezan Mango Juice,5.08E+12,20,18
-47,Nestle Juice 200ml,8.96E+12,25,22.5
-48,Junior Juice 125ml,8.17E+11,10,9
-49,7up 345ml,8.96E+12,35,31.5
-50,Pepsi 345ml,8.96E+12,35,31.5
-51,Stong 300ml,8.95E+12,30,27
-52,Powerfull Ginseng 250ml,5.90E+12,100,90
-53,Bigg Apple 1.5ltr,8.95E+11,90,81
-54,Bigg Anaar 1.5ltr,1.86E+12,90,81
-55,Bigg Lychee,1.86E+12,90,81
-56,Nestle Guava Nectar  1ltr,8.96E+12,200,180
-57,Nestle Chaunsa Mango Nectar 1ltr,8.96E+12,200,180
-58,Nestle Peach Fruit 1ltr,8.96E+12,200,180
-59,Nestle Pineapple Nectar 1ltr,8.96E+12,200,180
-60,Nestle Mango 200ml,8.96E+12,30,27
-61,Shezan Mango 1ltr,5.08E+12,115,103.5
-62,Shezan Apple 1ltr,5.08E+12,115,103.5
-63,Shezan Mixed Fruit 1ltr,5.08E+12,115,103.5
-64,Shezan Mango 250ml,5.08E+12,20,18
-65,Shezan Mango 125ml,8.96E+12,10,9
-66,Shezan Orange 1ltr,8.96E+12,195,175.5
-67,Shezan Apple 1ltr,8.96E+12,170,153
-68,Shezan Pomegranate 1ltr,8.96E+12,195,175.5
-69,Shezan Mango 1ltr,8.96E+12,110,99
-70,Strawberry Day Fresh 100ml,8.96E+12,50,45
-71,Pista DayFresh 100ml,8.96E+12,50,45
-72,Banana Day Fresh 100ml,8.96E+12,50,45
-73,Chocolate Day Fresh 100ml,8.96E+12,50,45
-74,Nestle Yogurt,8.96E+12,120,110
-75,Lays Yogurt and Herb 50,8.96E+12,50,45
-76,Kurkure Red Chilli 50,8.96E+12,50,45
-77,Lays French Cheese 50,8.96E+12,50,45
-78,Wavy Texas BBQ 30,8.96E+12,30,27
-79,Kurkure Chutney Chaska 30,8.96E+12,30,27
-80,Cheetos Crunchy 20,8.96E+12,20,18
-81,Kurkure Chutney Chaska 20,8.96E+12,20,18
-82,Lays Paprika 20,8.96E+12,20,18
-83,Lays Masala 30,8.96E+12,30,27
-84,Kurkure Red Chilli 20,8.96E+12,20,18
-85,Lays French Cheese 10,8.96E+12,10,9
-86,Kurkure Salt & pepper 10,8.96E+12,10,9
-87,Nimko Kurkure 20,8.96E+12,20,18
-88,Kurkure Red chilli 10,8.96E+12,10,9
-89,Wavy Swiss cheese 20,8.96E+12,20,18
-90,Wavy maxican Chili 20,8.96E+12,20,18
-91,Lays Yogurt and Herb 10,8.96E+12,10,9
-92,Lays Masala 10,8.96E+12,10,9
-93,Kurkure Halka Phulke 10,8.96E+12,10,9
-94,Kurkure chutney chaska 10,8.96E+12,10,9
-95,Kurkure chutney chaska 5,8.96E+12,5,4.5
-96,Kurkure Red Chilli 5,8.96E+12,5,4.5
-97,Cheetos puffs 5,8.96E+12,5,4.5
-98,Lays Salted 10,8.96E+12,10,9
-99,Slanty Salted,6.72E+11,10,9
-100,Slanty vegetable,6.72E+11,5,4.5
-101,Slanty Salted,6.72E+11,5,4.5
-102,OYE HOYE Tomato 10,8.96E+12,10,9
-103,OYE HOYE Salt & pepper 10,8.96E+12,10,9
-104,OYE HOYE Masala 10,8.96E+12,10,9
-105,OYE HOYE Patkha mirch 10,8.96E+12,10,9
-106,OYE HOYE Namkeen 10,8.96E+12,10,9
-107,OYE HOYE Yeh Cheese 20,8.96E+12,20,18
-108,OYE HOYE Patkha mirch 30,8.96E+12,30,27
-109,OYE HOYE Namkeen 20,8.96E+12,20,18
-110,ARIEL 20,8.00E+12,20,18
-111,ARIEL 10,4.08E+12,10,9
-112,ARIEL 500mg,5.41E+12,150,135
-113,ARIEL 1kg,4.08E+12,299,269.1
-114,BONUS 10,8.89E+12,10,9
-115,BONUS 1kg,8.89E+12,95,85.5
-116,SURF EXCEL 10,8.96E+12,10,9
-117,BRITE 10,8.89E+12,10,9
-118,BRITE 20,8.89E+12,20,18
-119,BRITE 500mg ,8.89E+12,145,130.5
-120,BRITE 1kg,8.89E+12,290,261
-121,Sunlight 2in1 800mg,8.96E+12,100,90
-122,Safeguard Lemon Fresh,8.00E+12,45,40.5
-123,Safeguard Honey,8.00E+12,45,40.5
-124,Safeguard pure white,8.00E+12,45,40.5
-125,Safeguard Floral Scent,8.00E+12,45,40.5
-126,Safeguard pure white family pack,8.00E+12,45,40.5
-127,Lifebuoy Nature,8.96E+12,45,40.5
-128,Lifebuoy Total 10,8.96E+12,45,40.5
-129,Lifebuoy care,8.96E+12,45,40.5
-130,Capri Moisturising,8.96E+12,45,40.5
-131,Hoor beauty soap 10,8.96E+12,10,9
-132,LUX velvet touch,8.96E+12,50,45
-133,TAZGI Orange,8.96E+12,20,18
-134,SABA Beauty Soap,73982200461,30,27
-135,Tibbat Delux Soap,8.96E+12,20,18
-136,Dettol antibacterial ,6.00E+12,60,54
-137,OLPER Milk 250ml,8.96E+12,40,36
-138,OLPER Milk 1 ltr,8.96E+12,150,135
-139,OLPER Balai Cream 200ml ,8.96E+12,120,108
-140,Nestle Cream 200ml,8.96E+12,130,0
-141,Cup shup 112ml,8.96E+12,15,13.5
-142,Cup shup 225ml,8.96E+12,25,22.5
-143,Dairy Pure Whitener 1ltr,8.96E+12,110,99
-144,Dairy Pure Whitener 225ml,8.96E+12,25,22.5
-145,Qudrat Whitener 180ml,8.96E+12,20,18
-146,LIPTON Yellow Label 190g,8.96E+12,230,189
-147,LIPTON Yellow Label 24g,8.96E+12,20,18
-148,LIPTON Yellow Label 95g,8.96E+12,110,99
-149,LIPTON Yellow Label 475g,8.96E+12,222,199.8
-150,TAPAL Danedar 95g,8.15E+11,100,90
-151,TAPAL Danedar 190g,8.15E+11,190,171
-152,Supreme Tea 190g,8.96E+12,175,157.5
-153,Supreme Tea 95g,8.96E+12,105,94.5
-154,Supreme Tea 26g,8.96E+12,20,18
-155,Qamar Tea 95g,8.91E+12,100,90
-156,Tapal Danedar Tea 475g,81509600227,500,450
-157,Supereme Tea 475g,8.96E+12,475,427.5
-158,Qamar Tea 950g,8.96E+12,860,774
-159,Qamar Tea 475g,8.96E+12,500,450
-160,Lipton Tea 475g,8.96E+12,535,481.5
-161,Lipton Tea 950g,8.96E+12,995,895.5
-162,Tapal Daneda 475g,8.15E+11,500,450
-163,Tapal Daneda 950g,8.15E+11,950,855
-164,Qamar Tea 190g,5.06E+12,210,189
-165,Qamar Tea 475g,5.06E+12,500,450
-166,Tapal Daneda 385g,8.15E+11,425,382.5
-167,Supreme Tea improved 95g,8.96E+12,105,94.5
-168,Tapal Danedar Tea 50g,8.15E+11,50,45
-169,Qamar Tea 95g,8.96E+12,110,99
-170,Morven Cigarette,89600115,80,78
-,,,,
-,,,,
-173,Capstan White Cigarette,80600078,100,96
-174,Gold Leaf Cigarette,95010557,180,162
-175,John Player Cigarette,95010649,180,162
-176,mond lemon-mint Cigarette,8.15E+11,80,60
-177,Milano white Cigarette,8.15E+11,65,49.5
-178,Milano Red Cigarette,8.15E+12,55,49.5
-179,Milano Blue Cigarette,8.15E+12,60,54
-180,Milano Furious Red Cigarette,8.15E+11,45,40.5
-181,Embassy Cigarette,89600030,80,78
-182,Business More Cigarette,6.29E+12,50,45
-183,Business Red Cigarette,6.29E+12,50,45
-184,mond Blue Cigarette,8.15E+11,80,72
-185,Gold Street Cigarette,5.98E+12,50,44
-186,Hiway Cigarette,5.93E+11,40,36
-187,Jump Cigarette,8.29E+11,25,20
-188,Visa Cigarette,8.96E+12,40,36
-189,Red&White Cigarette,89600320,80,78
-190,Pine Lights,88006703,90,75
-191,Gold Cup Cigarette,1100,50,44
-192,Bridge Cigarette,1101,40,36
-193,Cricket Cigarette,1102,30,27
-194,Laziza Kheer,5.03E+12,85,79
-195,Laziza Kulfa,5.03E+12,100,85.5
-196,Laziza Firni,5.03E+12,65,58.5
-197,Laziza Ras Milai,5.03E+12,110,115
-198,Laziza Sheer Khurma ,5.03E+12,90,81
-199,Laziza Gajar Kheer,5.03E+12,65,58.5
-200,Rafhan Jelly Orange,8.96E+12,60,54
-201,Rafhan Jelly Banana,8.96E+12,60,54
-202,National Kofta,6.21E+11,70,63
-203,National Qorma,6.21E+11,70,63
-204,National Delhi Nehari,6.21E+11,65,58.5
-205,National Haleem,6.21E+11,55,49.5
-206,National Qasoor Methi,62051400060,35,31.5
-207,National Black pepper,6.21E+11,60,54
-208,National Biryani,6.21E+11,70,63
-209,National Broast,6.21E+11,65,58.5
-210,Swad Methi,1.91E+11,25,22.5
-211,Mehran Black Pepper,6.33E+11,110,99
-212,National Chaat Masala,6.21E+11,60,55
-213,Natinoal Bombay Biryani,6.21E+11,65,60
-214,National Karahi Gosht,6.21E+11,70,58.5
-215,National Chicken Tikka,6.21E+11,65,58.5
-216,Swad iodized salt,1.91E+11,28,25.2
-217,Bisconi Chocolate Chip 5,8.96E+12,5,4.5
-218,Bisconi Cocomo milk 5,8.96E+12,5,4.5
-219,Bisconi Cocomo double chocolate 5,1.89E+11,5,4.5
-220,Bisconi Chocolate Chip 10,8.71E+11,10,9
-221,Bisconi FLO cake 10,8.96E+12,10,9
-222,Bisconi Chocolatto,8.71E+11,10,9
-223,Candi Biscuit ticky pack,8.96E+12,5,4.5
-224,Candi Biscuit ticky pack,8.96E+12,5,4.5
-225,TUC Biscuit,8.96E+12,20,18
-226,OREO ,8.96E+12,5,4.5
-227,LU Zeera Plus,8.96E+12,20,18
-228,Tiger Biscuits,8.96E+12,5,4.5
-229,GALA Biscuits,8.96E+12,17,15.3
-230,Prince Biscuits,8.96E+12,17,15.3
-231,Peanut Pik,8.96E+12,17,15.3
-232,RIO Strawberry Ticky,8.96E+12,5,4.5
-233,Sooper Biscuits,8.96E+12,17,15.3
-234,Sooper Ticky Biscuits,8.96E+12,5,4.5
-235,RIO Strawberry,8.96E+12,17,15.3
-236,Party Biscuits,8.96E+12,17,15.3
-237,Lemon Sandwich,8.96E+12,17,15.3
-238,Cremo Biscuits,8.96E+12,10,9
-239,Cafe,8.96E+12,10,9
-240,Mello Marshmallow Strawberry,8.96E+12,10,9
-241,Mello Marshmallow Vanilla,8.96E+12,10,9
-242,Tik Tak Wafer Chocolate Rollies,8.97E+12,10,9
-243,Tik Tak Wafer Strawberry Rollies,8.97E+12,10,9
-244,Bravo Biscuits,6.72E+11,10,9
-245,Mobile Chocolate,8.96E+12,5,4.5
-246,Bake Time Marble cake,8.96E+12,20,18
-247,Jolly Jam Biscuit Whistles,8.96E+12,10,9
-248,Kims Kup Cake strawberry,6.27E+12,10,9
-249,Kup cake black forest,6.29E+12,5,4.5
-250,Kims Kup Cake strawberry,6.27E+12,10,9
-251,Kims Kup Cake Chocolate,6.27E+12,10,9
-252,Sunny Fruit Cake 100g,8.96E+12,60,54
-253,Nestle Lactogen 1,8.96E+12,290,261
-254,Nestle Lactogen 2,8.96E+12,290,261
-255,Nestle Cerelac 1,8.96E+12,220,198
-256,Nestle Cerelac 6month,8.96E+12,220,198
-257,Nestle Cornflour,8.96E+12,70,63
-258,Kissan Porridge,8.96E+12,50,45
-259,Nestle Cerelac 6,8.96E+12,270,243
-260,Knorr Noodles chicken,8.96E+12,40,36
-261,Knorr Noodles Chat patta,8.96E+12,40,36
-262,Kisan Daliya 75g,9.84E+12,35,31.5
-263,Nestle Yogurt 400g,8.96E+12,130,117
-264,Weetabix Big 215g,5.01E+12,370,333
-265,Tang Orange Sachet 375g,7.62E+12,200,180
-266,Tang Mango Sachet 375g,7.62E+12,200,180
-267,Tang Pineapple Sachet 125g,7.62E+12,50,45
-268,Tang Apple Sachet 125g,7.62E+12,50,45
-269,Tang Lemon Sachet 125g,7.62E+12,50,45
-270,Tang Orange Sachet 125g,7.62E+12,50,45
-271,Tang  Orange 750g,7.62E+12,400,360
-272,Tang  Mango 750g,7.62E+12,400,360
-273,Tang  Lemon 750g,7.62E+12,400,360
-274,Tang Pineapple small sachet 25g,7.62E+12,10,9
-275,Tang Lemon small sachet 25g,7.62E+12,10,9
-276,Tang Mango small sachet 25g,7.62E+12,10,9
-277,Kurkure Chutney 50,8.96E+12,50,48
-278,Cheetos Hot 50,8.96E+12,50,48
-279,Jame Shirin 800ml,8.55E+11,250,204
-280,Insta Glass Cleaner 500ml,2.54E+12,160,80
-281,Cup Kake Strawberry Box,8.96E+12,115,105
-282,Swiss Roll Chocolate Box,8.96E+12,115,105
-283,Lays Wavy BBQ,8.96E+12,50,45
-284,Lavenda Lotion Sachet,9.00E+12,10,9.5
-285,Treet Platinum Blade (Box),7.40E+12,1000,920
-286,Treet Platinum Blade,7.40E+12,50,46
-287,Treet Black Blade,7.40E+12,40,37
-288,Gillette Blue 3,7.70E+12,120,100
-289,Spagetti Kolson,6.72E+11,110,90
-290,National Mayo Classic 40g,6.21E+11,20,19
-291,National Mayo Classic Sachet Box,1.06E+13,240,220
-292,Knorr Cube,8.96E+12,35,30
-293,Rossmoor Yeast Sachet,6.06E+12,40,35
-294,Daal Mash,12851000,240,0
-295,Daal Channa,12851001,160,0
-296,Daal Moong,12851002,260,0
-297,Daal Sabat Masoor,12851003,160,0
-298,Daal Masoor,12851004,160,0
-300,Daal White Lobia,12851006,200,0
-301,Daal Red Lobia,12851007,240,0
-302,Black Channa,12851008,160,0
-303,White Channa,12851009,160,0
-304,Rice Basmati,12851010,150,0
-305,Rice Tota,12851011,100,0
-306,Sugar,12851012,85,0
-307,Maida,12851013,70,0
-308,Besan Awal,12851014,160,0
-309,Besan Doam,12851015,140,0
+1,AL HABIB Rusk 400g,3002,135,133.0
+2,Ruby Nimko,8910666011055,5,4.5
+3,AL HABIB Rusk 200g,3001,75,73.0
+4,King Kulfa IceCream,8961014015539,240,216.0
+5,Mini Cornetto Classico IceCream,8961014014174,35,31.5
+6,Jet Sport IceCream,8961014050035,15,13.5
+7,Moo IceCream,8961014051155,20,18.0
+8,Mango Crush IceCream,8964000146217,10,9.0
+9,mini Cup Vanilla IceCream,8961014050547,20,18.0
+10,Orange Blast IceCream,8961014016635,10,9.0
+11,Mini Kulfi Omore IceCream,8964000146033,10,9.0
+12,Strawberry Creamy Delight IceCream,8961014017090,100,90.0
+13,Mango Creamy Delight IceCream,8961014009149,100,90.0
+14,King Kulfa big slice IceCream,8961014004595,35,31.5
+15,Paddle Pop Bubble Gum,8961014017779,10,9.0
+16,Paddle Pop Patakha,8961014008692,30,27.0
+17,Paddle Pop Jet Sport,8961014017748,20,18.0
+18,Feast,8961014017571,50,45.0
+19,King Kulfa big slice IceCream,8961014004595,40,36.0
+20,mini Cup Vanilla IceCream,8961014050547,20,18.0
+21,Cup Mango,8961014050530,55,49.5
+22,Choc Bar,8961014018486,25,22.5
+23,Cornetto Flirty Berry,8961014014198,65,58.5
+24,Half Bar Vanilla 375ml,8961014017076,100,90.0
+25,Half Bar King K 375ml,8961014017922,145,130.5
+26,Half Bar Chounsa Mango 375ml,8961014009149,140,126.0
+27,Donut,8961014017564,50,45.0
+28,Bar King K 800ml,8961014017908,255,229.5
+29,Bar Strawberry 800ml,8961014008357,225,202.5
+30,Bar Vanilla 800ml,8961014065565,225,202.5
+31,Pepsi 1.5ltr,12000800085,90,81.0
+32,Pepsi 1ltr,12000002946,70,63.0
+33,7up 1ltr,896400101377,70,63.0
+34,CocaCola 1ltr,5449000054227,80,72.0
+35,CocaCola CAN 250ml,5449000008046,50,45.0
+36,Bigg Apple 1ltr,1860074054519,60,54.0
+37,Bigg Apple 1.5ltr,894559000280,80,72.0
+38,Water Nestle 1.5ltr,8961008212289,60,54.0
+39,Sprite CAN 250ml,5449000000729,50,45.0
+40,DEW 1ltr,8964000101100,70,63.0
+41,Water AS 1.5ltr,923229990070,50,45.0
+42,7up 1.5ltr,12000800337,90,81.0
+43,Fanta 1ltr,5449000006271,80,72.0
+44,Sting 500ml ,8964000101704,65,58.5
+45,Water AS 500ml,923228880070,30,27.0
+46,7up 500ml ,8964000101087,50,45.0
+47,Mirinda 345ml,8964000103319,35,31.5
+48,Pepsi 500ml ,12000801754,50,45.0
+49,Shezan Mango Juice,5078643001017,20,18.0
+50,Nestle Juice 200ml,8961008214948,25,22.5
+51,Junior Juice 125ml,817074003109,10,9.0
+52,7up 345ml,8964000103289,35,31.5
+53,Pepsi 345ml,8964000103227,35,31.5
+54,Stong 300ml,8952198763545,30,27.0
+55,Powerfull Ginseng 250ml,5904003285240,100,90.0
+56,Bigg Apple 1.5ltr,894559000280,90,81.0
+57,Bigg Anaar 1.5ltr,1860074053567,90,81.0
+58,Bigg Lychee,1860074054618,90,81.0
+59,Nestle Guava Nectar  1ltr,8961008211206,200,180.0
+60,Nestle Chaunsa Mango Nectar 1ltr,8961008211190,200,180.0
+61,Nestle Peach Fruit 1ltr,8961008213880,200,180.0
+62,Nestle Pineapple Nectar 1ltr,8961008211213,200,180.0
+63,Nestle Mango 200ml,8961008215655,30,27.0
+64,Shezan Mango 1ltr,5078643001062,115,103.5
+65,Shezan Apple 1ltr,5078643001161,115,103.5
+66,Shezan Mixed Fruit 1ltr,5078643001178,115,103.5
+67,Shezan Mango 250ml,5078643001017,20,18.0
+68,Shezan Mango 125ml,8964000051726,10,9.0
+69,Shezan Orange 1ltr,8964000876022,195,175.5
+70,Shezan Apple 1ltr,8964000876015,170,153.0
+71,Shezan Pomegranate 1ltr,8964000876060,195,175.5
+72,Shezan Mango 1ltr,8964000876435,110,99.0
+73,Shezan Strawberry 100ml,8964000816493,50,45.0
+74,Shezan Pista 100ml,8964000816509,50,45.0
+75,Shezan Banana 100ml,8964000816622,50,45.0
+76,Shezan Chocolate 100ml,8964000816516,50,45.0
+77,Nestle Yogurt,8961008203027,120,110.0
+78,Lays Yogurt and Herb 50,8964000103807,50,45.0
+79,Kurkure Red Chilli 50,8964000090558,50,45.0
+80,Lays French Cheese 50,8964000090329,50,45.0
+81,Wavy Texas BBQ 30,8964000103661,30,27.0
+82,Kurkure Chutney Chaska 30,8964000090657,30,27.0
+83,Cheetos Crunchy 20,8964000090879,20,18.0
+84,Kurkure Chutney Chaska 20,8964000102985,20,18.0
+85,Lays Paprika 20,8964000102626,20,18.0
+86,Lays Masala 30,8964000090275,30,27.0
+87,Kurkure Red Chilli 20,8964000102992,20,18.0
+88,Lays French Cheese 10,8964000090251,10,9.0
+89,Kurkure Salt & pepper 10,8964000102732,10,9.0
+90,Nimko Kurkure 20,8964000090145,20,18.0
+91,Kurkure Red chilli 10,8964000102978,10,9.0
+92,Wavy Swiss cheese 20,8964000102640,20,18.0
+93,Wavy maxican Chili 20,8964002347018,20,18.0
+94,Lays Yogurt and Herb 10,8964000103777,10,9.0
+95,Lays Masala 10,8964000090237,10,9.0
+96,Kurkure Halka Phulke 10,8964000101148,10,9.0
+97,Kurkure chutney chaska 10,8964000102961,10,9.0
+98,Kurkure chutney chaska 5,8964000090497,5,4.5
+99,Kurkure Red Chilli 5,8964000090503,5,4.5
+100,Cheetos puffs 5,8964000090046,5,4.5
+101,Lays Salted 10,8964000090220,10,9.0
+102,Slanty Salted,671866116565,10,9.0
+103,Slanty vegetable,671866116527,5,4.5
+104,Slanty Salted,671866116510,5,4.5
+105,OYE HOYE Tomato 10,8961101340094,10,9.0
+106,OYE HOYE Salt & pepper 10,8961101340117,10,9.0
+107,OYE HOYE Masala 10,8961101340070,10,9.0
+108,OYE HOYE Patkha mirch 10,8961101340957,10,9.0
+109,OYE HOYE Namkeen 10,8961101341121,10,9.0
+110,OYE HOYE Yeh Cheese 20,8961101341091,20,18.0
+111,OYE HOYE Patkha mirch 30,8961101340964,30,27.0
+112,OYE HOYE Namkeen 20,8961101341138,20,18.0
+113,ARIEL 20,8001841070186,20,18.0
+114,ARIEL 10,4084500377417,10,9.0
+115,ARIEL 500mg,5410076493272,150,135.0
+116,ARIEL 1kg,4084500377585,299,269.1
+117,BONUS 10,8886950013145,10,9.0
+118,BONUS 1kg,8886950013206,95,85.5
+119,SURF EXCEL 10,8961014236422,10,9.0
+120,BRITE 10,8886950011578,10,9.0
+121,BRITE 20,8886950011486,20,18.0
+122,BRITE 500mg ,8886950011141,145,130.5
+123,BRITE 1kg,8886950011066,290,261.0
+124,Sunlight 2in1 800mg,8961014235692,100,90.0
+125,Safeguard Lemon Fresh,8001090876591,45,40.5
+126,Safeguard Honey,8001090876379,45,40.5
+127,Safeguard pure white,8001090876515,45,40.5
+128,Safeguard Floral Scent,8001090876713,45,40.5
+129,Safeguard pure white family pack,8001090573162,45,40.5
+130,Lifebuoy Nature,8961014234688,45,40.5
+131,Lifebuoy Total 10,8961014234664,45,40.5
+132,Lifebuoy care,8961014234671,45,40.5
+133,Capri Moisturising,8961100021567,45,40.5
+134,Hoor beauty soap 10,8964000100783,10,9.0
+135,LUX velvet touch,8961014015294,50,45.0
+136,TAZGI Orange,8964001417002,20,18.0
+137,SABA Beauty Soap,73982200461,30,27.0
+138,Tibbat Delux Soap,8964001024002,20,18.0
+139,Dettol antibacterial ,6001106209261,60,54.0
+140,OLPER Milk 250ml,8964000919934,30,27.0
+141,OLPER Milk 1 ltr,8964000346679,150,135.0
+142,OLPER Balai Cream 200ml ,8964000919712,120,108.0
+143,Nestle Cream 200ml,8961008212975,130,0.0
+144,Cup shup 112ml,8961100502332,15,13.5
+145,Cup shup 225ml,8961100502325,25,22.5
+146,Dairy Pure Whitener 1ltr,8964000040485,110,99.0
+147,Dairy Pure Whitener 225ml,8964000040461,25,22.5
+148,Qudrat Whitener 180ml,8964000702567,20,18.0
+149,LIPTON Yellow Label 190g,8961014106169,230,189.0
+150,LIPTON Yellow Label 24g,8961014106213,20,18.0
+151,LIPTON Yellow Label 95g,8961014106220,110,99.0
+152,LIPTON Yellow Label 475g,8961014106268,222,199.8
+153,TAPAL Danedar 95g,815096001141,100,90.0
+154,TAPAL Danedar 190g,815096001158,190,171.0
+155,Supreme Tea 190g,8961014003734,175,157.5
+156,Supreme Tea 95g,8961014003727,105,94.5
+157,Supreme Tea 26g,8961014003772,20,18.0
+158,Qamar Tea 95g,8910149475039,100,90.0
+159,Tapal Danedar Tea 475g,81509600227,500,450.0
+160,Supereme Tea 475g,8961014018462,475,427.5
+161,Qamar Tea 950g,8964002330010,860,774.0
+162,Qamar Tea 475g,8964002330003,500,450.0
+163,Lipton Tea 475g,8961014106251,535,481.5
+164,Lipton Tea 950g,8961014106176,995,895.5
+165,Tapal Daneda 475g,815096002278,500,450.0
+166,Tapal Daneda 950g,815096000274,950,855.0
+167,Qamar Tea 190g,5060061730044,210,189.0
+168,Qamar Tea 475g,5060061730051,500,450.0
+169,Tapal Daneda 385g,815096000175,425,382.5
+170,Supreme Tea improved 95g,8961014018387,105,94.5
+171,Tapal Danedar Tea 50g,815096002414,50,45.0
+172,Qamar Tea 95g,8964002330089,110,99.0
+173,Morven Cigarette,89600115,85,76.5
+174,Capstsan by PallMall Cigarette,95010816,90,81.0
+175,Gold Flake Cigarette,95010588,90,81.0
+176,Capstsan White Cigarette,80600078,110,99.0
+177,Gold Leaf Cigarette,95010557,180,162.0
+178,John Player Cigarette,95010649,180,162.0
+179,mond lemon-mint Cigarette,815082008734,80,72.0
+180,Milano white Cigarette,815082009731,55,49.5
+181,Milano Red Cigarette,8150820081474,55,49.5
+182,Milano Blue Cigarette,8150820081306,60,54.0
+183,Milano Furious Red Cigarette,815082008420,45,40.5
+184,Embassy Cigarette,89600030,80,72.0
+185,Business More Cigarette,6291107891101,45,40.5
+186,Business Red Cigarette,6291107891132,50,45.0
+187,mond Blue Cigarette,815082008178,80,72.0
+188,Gold Street Cigarette,5982700133677,60,54.0
+189,Hiway Cigarette,592700133688,40,36.0
+190,Jump Cigarette,829032783275,25,22.5
+191,Visa Cigarette,8963546354739,40,36.0
+192,Red&White Cigarette,89600320,90,81.0
+193,Pine Lights,88006703,80,0.0
+194,Gold Cup Cigarette,1100,55,49.5
+195,Bridge Cigarette,1101,40,36.0
+196,Cricket Cigarette,1102,40,36.0
+197,Laziza Kheer,5028217000991,75,67.5
+198,Laziza Kulfa,5028217001288,95,85.5
+199,Laziza Firni,5028217001035,65,58.5
+200,Laziza Ras Milai,5028217999974,100,90.0
+201,Laziza Sheer Khurma ,5028217001257,90,81.0
+202,Laziza Gajar Kheer,5028217001080,65,58.5
+203,Rafhan Jelly Orange,8961014008531,60,54.0
+204,Rafhan Jelly Banana,8961014008432,60,54.0
+205,National Kofta,620514000428,65,58.5
+206,National Qorma,620514000565,65,58.5
+207,National Delhi Nehari,620514009766,65,58.5
+208,National Haleem,620514000367,55,49.5
+209,National Qasoor Methi,62051400060,35,31.5
+210,National Black pepper,620514000756,60,54.0
+211,National Biryani,620514000275,65,58.5
+212,National Broast,620514001753,65,58.5
+213,Swad Methi,191412250357,25,22.5
+214,Mehran Black Pepper,633152014399,110,99.0
+215,National Chaat Masala,620514001029,40,36.0
+216,Natinoal Bombay Biryani,620514000282,55,49.5
+217,National Karahi Gosht,620514000404,65,58.5
+218,National Chicken Tikka,620514000602,65,58.5
+219,Swad iodized salt,191412250517,28,25.2
+220,Bisconi Chocolate Chip 5,8964001434535,5,4.5
+221,Bisconi Cocomo milk 5,8964001071709,5,4.5
+222,Bisconi Cocomo double chocolate 5,188552000218,5,4.5
+223,Bisconi Chocolate Chip 10,870572009493,10,9.0
+224,Bisconi FLO cake 10,8964001072669,10,9.0
+225,Bisconi Chocolatto,870572008007,10,9.0
+226,Candi Biscuit ticky pack,8961003060335,5,4.5
+227,Candi Biscuit ticky pack,8961003070334,5,4.5
+228,TUC Biscuit,8961003020216,17,15.3
+229,OREO ,8961003653001,5,4.5
+230,LU Zeera Plus,8961003021022,17,15.3
+231,Tiger Biscuits,8961003021510,5,4.5
+232,GALA Biscuits,8961003020520,17,15.3
+233,Prince Biscuits,8961003020117,17,15.3
+234,Peanut Pik,8964000683651,17,15.3
+235,RIO Strawberry Ticky,8964000681466,5,4.5
+236,Sooper Biscuits,8964000682685,17,15.3
+237,Sooper Ticky Biscuits,8964000681053,5,4.5
+238,RIO Strawberry,8964000682722,17,15.3
+239,Party Biscuits,8964000683828,17,15.3
+240,Lemon Sandwich,8964000681503,17,15.3
+241,Cremo Biscuits,8964000938300,10,9.0
+242,Cafe,8964000938010,10,9.0
+243,Mello Marshmallow Strawberry,8964001435525,10,9.0
+244,Mello Marshmallow Vanilla,8964001435518,10,9.0
+245,Tik Tak Wafer Chocolate Rollies,8965320012701,10,9.0
+246,Tik Tak Wafer Strawberry Rollies,8965320012718,10,9.0
+247,Bravo Biscuits,671866128988,10,9.0
+248,Mobile Chocolate,8964000783733,5,4.5
+249,Bake Time Marble cake,8961100287819,20,18.0
+250,Jolly Jam Biscuit Whistles,8964001188728,10,9.0
+251,Kims Kup Cake strawberry,6271008104005,10,9.0
+252,Kup cake black forest,6294004112096,5,4.5
+253,Kims Kup Cake strawberry,6271008104005,10,9.0
+254,Kims Kup Cake Chocolate,6271008104005,10,9.0
+255,Sunny Fruit Cake 100g,8964000264669,60,54.0
+256,Nestle Lactogen 1,8961008210148,290,261.0
+257,Nestle Lactogen 2,8961008210209,290,261.0
+258,Nestle Cerelac 1,8961008207117,220,198.0
+259,Nestle Cerelac 6month,8961008210490,220,198.0
+260,Nestle Cornflour,8961014016772,70,63.0
+261,Kissan Porridge,8962014125457,50,45.0
+262,Nestle Cerelac 6,8961008210520,270,243.0
+263,Knorr Noodles chicken,8961014014433,40,36.0
+264,Knorr Noodles Chat patta,8961014014662,40,36.0
+265,Kisan Daliya 75g,9836891258555,35,31.5
+266,Nestle Yogurt 400g,8961008203027,130,117.0
+267,Weetabix Big 215g,5010029000511,370,333.0
+268,Tang Orange Sachet 375g,7622210596864,200,180.0
+269,Tang Mango Sachet 375g,7622210596833,200,180.0
+270,Tang Pineapple Sachet 125g,7622210591555,50,45.0
+271,Tang Apple Sachet 125g,7622210591555,50,45.0
+272,Tang Lemon Sachet 125g,7622210591517,50,45.0
+273,Tang Orange Sachet 125g,7622210591647,50,45.0
+274,Tang  Orange 750g,7622210596932,400,360.0
+275,Tang  Mango 750g,7622210596901,400,360.0
+276,Tang  Lemon 750g,7622210596871,400,360.0
+277,Tang Pineapple small sachet 25g,7622210591708,10,9.0
+278,Tang Lemon small sachet 25g,7622210591678,10,9.0
+279,Tang Mango small sachet 25g,7622210591739,10,9.0
+280,Pakeeza Iodized salt,154-565-55,25,22.5
+281,Golden macaroni twisted 400g,GM-5,100,90.0
+282,Golden macaroni circles 400g,GM-4,100,90.0
+283,Capstan By Pall Mall,95010816,80,78.0
+284,Candy LU HR,8961003020315,20,18.0
+285,Tuc LU HR,8961003020216,20,18.0
+286,Diplomat,89600191,80,78.0
+287,Dunhill Blue Pak,89600047,180,175.0
+288,Coca-Cola 1.5 Ltr,5449000051981,100,85.0
+289,Young's Mayonnaise 1 KG,8964000061121,370,345.0
+290,National Ketchup 1 KG,620514016160,270,235.0
+291,GF Fruitcocktail 227g,8858908309389,150,125.0
+292,National Strawberry Custard 125g,620514006147,65,55.0
+293,National Custard Mango 125g,620514006178,65,55.0
+294,Laziza Shahi Tukra 180g,5028217001486,100,95.0
+295,Bensons and Hedges,50219209,280,254.0
+296,Qarshi Jam-e-Shirin 800ml,855434000016,270,241.0

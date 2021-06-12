@@ -1,0 +1,3 @@
+pip install docx
+pip install docxtpl
+pip install win32printing
